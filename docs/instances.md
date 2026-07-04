@@ -16,6 +16,7 @@
 * [invidious.tiekoetter.com](https://invidious.tiekoetter.com) 🇩🇪 - Source code/changes: https://github.com/tiekoetter/invidious
 * [invidious.f5.si](https://invidious.f5.si) 🇯🇵
 * [inv.zoomerville.com](https://inv.zoomerville.com) 🇺🇸 - Source code/changes: https://github.com/zoomerville/invidious/
+* [inv.miningtcup.me](https://inv.miningtcup.me) 🇺🇸 - Source code/changes: https://git.miningtcup.me/MiningTcup/invidious
 
 ### Tor Onion Services:
 
